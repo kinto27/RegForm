@@ -1,0 +1,35 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+    background: url("abstract-blur-with-bokeh-light-for-background-usage-vector.jpg");
+    background-size: 200% ;
+
+
+}
+
+div.main{
+  width: 400px;
+  margin: 100px auto 100px auto;
+
+}
+h2 {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 20px;
+
+}
+div.register {
+  background-color: rgba(0,0,0,0.3);
+  width: 100%;
+  padding: 20px;
+  font-size: 18px;
+  border-radius: 15px;
+  border:1px solid rgba(255,255,255,0.3);
+  box-shadow: 2px, 2px, 10px;
+  
+
+}
